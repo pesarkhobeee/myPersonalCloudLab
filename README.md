@@ -6,7 +6,7 @@ Provisioning a minimal Kubernetes cluster with the help of K3s and Terraform on 
 ##### Author: Farid Ahmadian
 ##### Persona: software and devops engineers
 
-In the new era of internet services development, we are hearing the "microservice" term too many times, basically, unlike monolith application we are creating lots of individual maintainable and testable mini-applications which are empowering us to create a scalable internet service. This new era brought with itself new needs that amount to them, infrastructure as a code and containers orchestration are two big ones, here I don't want to explain these words but we are going to dirty our hands and create a simple example to get some real feeling about them.
+In the new era of enormous internet services development, we are hearing the "microservice" term too many times, basically, unlike monolith application we are creating lots of individual maintainable and testable mini-applications which are empowering us to create a scalable service. This new era brought with itself new needs that between them, infrastructure as a code and containers orchestration are two big ones, here I don't want to explain these words but we are going to get down to business and create a simple example to get some real ideas about them.
 
 I always wanted to find an easy, independent, and low-cost solution to have my own container orchestration which, empowers me to test lots of cloud technologies like Prometheus, Fluentd, Traefik, ..., Also, I was thinking I should do this with a standard approach in order to make that knowledge useful for my career path which in this case is infrastructure as code.
 
